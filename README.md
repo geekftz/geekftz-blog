@@ -1,4 +1,4 @@
-# blogs-of-fanta
+# 个人博客 personal blogs
 blogs of fanta
 
 I've written sth funny in these places, thks for view my world!
