@@ -1,4 +1,4 @@
-# 个人博客，微信公众号 personal blogs, Official Accounts
+# 个人博客，微信公众号 Personal blogs, Official Accounts
 
 I've written sth funny in these places, thks for view my world!
 
